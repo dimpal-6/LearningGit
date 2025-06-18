@@ -1,4 +1,4 @@
 # LearningGit
 
 Hey, I am Learning Git and Github Today from Apna College.<br>
-Very Excited to learn Git.
+Doing changes to local system for learning status command and also removing one existing line "Very Excited to learn Git.".
